@@ -1,0 +1,4 @@
+#ifndef MOREH_VERSION_H_
+#define MOREH_VERSION_H_
+#define MOREH_VERSION "@MOREH_VERSION@"
+#endif /* MOREH_VERSION_H_ */
